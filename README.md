@@ -1,2 +1,2 @@
 # spring-feign
-Spring集成Open-Feign，非Spring Boot、Spring Cloud项目
+Spring集成OpenFeign，非Spring Boot、Spring Cloud项目
